@@ -1,2 +1,3 @@
 # Digital-Markdown
-This is a readme file 
+Italic demonstration
+Bold demonstration
