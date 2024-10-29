@@ -1,3 +1,3 @@
 # Digital-Markdown
-#Italic demonstration
-#Bold demonstration
+Italic demonstration
+Bold demonstration
